@@ -12,7 +12,7 @@ Use IDM forever without cracking. If you can, [buy a license](https://j2team.dev
 
 ## Download
 
-You can get the latest version [here](https://github.com/J2TeaM/idm-trial-reset/releases/latest).
+You can get the latest version [here](https://www.idmtrialreset.com).
 
 ## Build from source
 
